@@ -9,4 +9,4 @@ Data for reviewers (Viola_thresholdLogs.zip)
 Needs the following hardware:
 DS8R from Digitimer
 arduino
-DAC (0-10V) or DAC (0-5V) plus amplifier (2x) 
+PWM converter(0-10V) 
